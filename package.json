@@ -4,7 +4,7 @@
   "description": "Playground for learning html canvas",
   "main": "index.js",
   "scripts": {
-    "dev": "./node_modules/.bin/parcel index.html",
+    "dev": "./node_modules/.bin/parcel ./src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Goodwin",
